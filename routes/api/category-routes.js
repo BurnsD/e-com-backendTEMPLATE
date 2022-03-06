@@ -50,7 +50,7 @@ router.delete('/:id', (req, res) => {
   })
     .then(data => {
       if (!data) {
-        res.status(404).json({ message: 'This id does was not found' });
+        res.status(404).json({ message: 'This id was not found' });
         return;
       }
       res.json(data);
