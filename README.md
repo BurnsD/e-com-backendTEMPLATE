@@ -8,7 +8,6 @@
   * [Installation](#installation)
   * [Usage](#usage)
   * [Contributing](#contributing)
-  * [Tests](#tests)
   * [Questions](#questions)
 
 [MIT](https://choosealicense.com/licenses/MIT)
@@ -16,6 +15,9 @@
  
   ## [Description](#table-of-contents)
   This application might be lacking the front end but it can be used as a starting template for your e-commerce needs. Already set is a working database, simply seed the database and use npm start to run the application
+
+  Follow this link for a Tutorial Video:
+  [Tutorial](https://drive.google.com/file/d/1Z_ecy-iRj5xrBp9Fb3fYjDEFWthSJ6X0/view)
    
   ## [Installation](#table-of-contents)
   run npm i to install dependencies
@@ -29,10 +31,8 @@
   [MIT](https://choosealicense.com/licenses/MIT)
     
   ## [Contributing](#table-of-contents)
+  Application was build by Dustin Burns
     
-   
-  ## [Tests](#table-of-contents)
-  
   ## [Questions](#table-of-contents)
   Contact me with any questions at the following:
   [GitHub](https://github.com/BurnsD)
